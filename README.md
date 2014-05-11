@@ -1,3 +1,3 @@
-sforce_canvas_sample_php
+salesforce canvas sample php
 ========================
 This code is sample code for salesforce canvas with php
